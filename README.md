@@ -73,7 +73,7 @@ The E-commerce Backend API is a Node.js application built with Express.js, desig
 
 1. **Create a Category**
    - **Method**: POST
-   - **URL**: `/api/categories`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/categories`
    - **Body**:
      ```json
      {
@@ -83,15 +83,15 @@ The E-commerce Backend API is a Node.js application built with Express.js, desig
 
 2. **Get All Categories**
    - **Method**: GET
-   - **URL**: `/api/categories`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/categories`
 
 3. **Get a Category by ID (with its Products)**
    - **Method**: GET
-   - **URL**: `/api/categories/:id`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/categories/:id`
 
 4. **Update a Category**
    - **Method**: PATCH
-   - **URL**: `/api/categories/:id`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/categories/:id`
    - **Body**:
      ```json
      {
@@ -101,13 +101,13 @@ The E-commerce Backend API is a Node.js application built with Express.js, desig
 
 5. **Delete a Category**
    - **Method**: DELETE
-   - **URL**: `/api/categories/:id`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/categories/:id`
 
 ### Product APIs
 
 1. **Create a Product**
    - **Method**: POST
-   - **URL**: `/api/products`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/products`
    - **Body**:
      ```json
      {
@@ -120,15 +120,15 @@ The E-commerce Backend API is a Node.js application built with Express.js, desig
 
 2. **Get All Products**
    - **Method**: GET
-   - **URL**: `/api/products`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/products`
 
 3. **Get a Product by ID (with its Category)**
    - **Method**: GET
-   - **URL**: `/api/products/:id`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/products/:id`
 
 4. **Update a Product**
    - **Method**: PATCH
-   - **URL**: `/api/products/:id`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/products/:id`
    - **Body**:
      ```json
      {
@@ -140,7 +140,7 @@ The E-commerce Backend API is a Node.js application built with Express.js, desig
 
 5. **Delete a Product**
    - **Method**: DELETE
-   - **URL**: `/api/products/:id`
+   - **URL**: `https://vistaarwebx-assingment.onrender.com/api/products/:id`
 
 ## Future Enhancements
 
