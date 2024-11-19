@@ -22,7 +22,7 @@ The E-commerce Backend API is a Node.js application built with Express.js, desig
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/UNIGO777/VistaarWebX-assingment.git
    cd my-project
    ```
 
